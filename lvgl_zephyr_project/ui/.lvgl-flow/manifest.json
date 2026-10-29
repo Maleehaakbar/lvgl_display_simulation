@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "exportedAt": "2026-10-28T10:02:14.899Z",
+  "files": {
+    ".lvgl-flow/screens/watchface.json": {
+      "owner": "tool",
+      "exportedAt": "2026-10-28T10:02:14.899Z"
+    },
+    "screens/watchface.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-10-28T10:02:14.899Z"
+    },
+    "components/base/container/container.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-10-28T10:02:14.899Z"
+    },
+    "components/base/image/image.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-10-28T10:02:14.899Z"
+    },
+    "components/base/panel/panel.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-10-28T10:02:14.899Z"
+    },
+    "components/base/card/card.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-10-28T10:02:14.899Z"
+    },
+    "components/base/label/label.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-10-28T10:02:14.899Z"
+    },
+    "globals.xml": {
+      "owner": "tool",
+      "exportedAt": "2026-10-28T10:02:14.899Z"
+    },
+    "images/index.json": {
+      "owner": "tool",
+      "exportedAt": "2026-10-28T10:02:14.899Z"
+    },
+    "images/vec_48_15.png": {
+      "owner": "tool",
+      "exportedAt": "2026-10-28T10:02:14.899Z"
+    },
+    "images/index_vectors.json": {
+      "owner": "tool",
+      "exportedAt": "2026-10-28T10:02:14.899Z"
+    }
+  }
+}

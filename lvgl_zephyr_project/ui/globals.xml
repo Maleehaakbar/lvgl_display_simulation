@@ -1,0 +1,65 @@
+<globals>
+	<consts>
+		<color name="base_accent" value="0x70609C" />
+		<int name="base_unit_sm" value="4" />
+	</consts>
+
+	<images>
+		<data name="img_58546e68" src_path="images/img_58546e68.png" color_format="rgb565a8" />
+		<data name="vec_48_15" src_path="images/vec_48_15.png" color_format="rgb565a8" />
+	</images>
+
+	<fonts>
+		<bin
+			name="font_inter_regular_10"
+			size="10"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Inter-Regular.ttf"
+			range="0x20-0x7F"
+		/>
+		<bin
+			name="font_montserrat_semibold_48"
+			size="48"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Montserrat-SemiBold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x2000-0x206F"
+		/>
+		<bin
+			name="font_montserrat_medium_16"
+			size="16"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Montserrat-Medium.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x2000-0x206F"
+		/>
+		<bin
+			name="font_montserrat_semibold_69"
+			size="69"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Montserrat-SemiBold.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+		/>
+		<bin
+			name="font_montserrat_regular_21"
+			size="21"
+			bpp="4"
+			as_file="false"
+			src_path="fonts/Montserrat-Regular.ttf"
+			range="0x20-0x7F, 0xA0-0xFF, 0x0100-0x017F, 0x2000-0x206F"
+		/>
+	</fonts>
+
+	<subjects>
+		<string name="date_week" value="05.06 MON" />
+		<string name="display_date" value="Tue, 29 JULY" />
+		<string name="dsiplay_time" value="10:45" />
+		<string name="time_variable" value="20:22" />
+	</subjects>
+
+	<styles>
+		<style name="screen_base" border_width="0" radius="0" shadow_width="0" shadow_opa="0" />
+	</styles>
+</globals>

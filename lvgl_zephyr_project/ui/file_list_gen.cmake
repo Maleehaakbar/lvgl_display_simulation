@@ -1,0 +1,19 @@
+list(
+  APPEND
+  LV_EDITOR_PROJECT_SOURCES
+  ${CMAKE_CURRENT_LIST_DIR}/components/base/card/card_gen.c
+  ${CMAKE_CURRENT_LIST_DIR}/components/base/container/container_gen.c
+  ${CMAKE_CURRENT_LIST_DIR}/components/base/image/image_gen.c
+  ${CMAKE_CURRENT_LIST_DIR}/components/base/label/label_gen.c
+  ${CMAKE_CURRENT_LIST_DIR}/components/base/panel/panel_gen.c
+  ${CMAKE_CURRENT_LIST_DIR}/fonts/font_inter_regular_10_data.c
+  ${CMAKE_CURRENT_LIST_DIR}/fonts/font_montserrat_medium_16_data.c
+  ${CMAKE_CURRENT_LIST_DIR}/fonts/font_montserrat_regular_21_data.c
+  ${CMAKE_CURRENT_LIST_DIR}/fonts/font_montserrat_semibold_48_data.c
+  ${CMAKE_CURRENT_LIST_DIR}/fonts/font_montserrat_semibold_69_data.c
+  ${CMAKE_CURRENT_LIST_DIR}/images/img_58546e68_data.c
+  ${CMAKE_CURRENT_LIST_DIR}/images/vec_48_15_data.c
+  ${CMAKE_CURRENT_LIST_DIR}/screens/figma_design_watchface_gen.c
+  ${CMAKE_CURRENT_LIST_DIR}/screens/watchface_gen.c
+  ${CMAKE_CURRENT_LIST_DIR}/ui_gen.c
+  ${CMAKE_CURRENT_LIST_DIR}/ui.c)
